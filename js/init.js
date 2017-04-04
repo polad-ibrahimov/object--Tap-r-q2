@@ -1,0 +1,1 @@
+var myFunction = new myFunction('main');
